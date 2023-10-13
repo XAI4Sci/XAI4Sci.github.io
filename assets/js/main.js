@@ -120,4 +120,7 @@
 					visibleClass: 'header-visible'
 				});
 
+
 })(jQuery);
+
+

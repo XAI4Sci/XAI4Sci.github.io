@@ -2721,3 +2721,33 @@ input, select, textarea {
 					}
 
 		}
+
+/* Collapsible text */
+
+	.collapse {
+  		background-color: #C19A72;
+  		color: white;
+  		cursor: pointer;
+ 		padding: 5px 20px;
+ 		width: 90%;
+		border: none;
+		text-align: left;
+		outline: none;
+  		font-size: 16px;
+	}
+          
+        .active, 
+        .collapse:hover { 
+            	background-color: #ccc; 
+        } 
+          
+        .content { 
+            	background-color: #ecf1f1; 
+            	display: none; 
+            	font-size: 17px; 
+        } 
+
+
+
+
+
